@@ -1,0 +1,9 @@
+Centroids of face localizer (controlgroup_allbump_centroids) and bumps (controlgroup_allbump_centroids).
+Each file contains 3 sub-briks:
+1) centroids for each monkey for PL / posterior bump
+2) centroids for each monkey for ML / middle bump
+3) centroids for each monkey for AL / anterior bump
+
+Data are aligned to provided NMT surfaces (std.60 for inflated and smoothwm). Use AFNI/SUMA to view
+
+Average convexity files are also provided (controlsubjs.conv.1D.dset)
