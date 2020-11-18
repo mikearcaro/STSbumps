@@ -1,0 +1,7 @@
+This is a mat file with data reported in the bottom of Figure 4.
+all_bump2centroid contains the face patch x bump x all monkey hemispheres distances
+all_func2centroid contains the face patch x atlas x all monkey hemispheres distances
+mean_all_bump2centroid is the mean of all non NaN data in all_bump2centroid
+mean_all_func2centroid is the mean of all non NaN data in  all_func2centroid
+sem_all_bump2centroid is the sem of all non NaN data in all_bump2centroid
+sem_all_func2centroid is the sem of all non NaN data in  all_func2centroid
